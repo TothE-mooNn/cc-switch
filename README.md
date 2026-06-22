@@ -1,6 +1,6 @@
 <div align="center">
 
-# CC Switch
+# mr.wang's CC Switch
 
 ### The All-in-One Manager for Claude Code, Claude Desktop, Codex, Gemini CLI, OpenCode, OpenClaw & Hermes Agent
 
